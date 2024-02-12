@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app_gui_condicional02", "app_gui_condicional02.csproj", "{DB0782C1-D713-46B6-9498-02D4FFF64222}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB0782C1-D713-46B6-9498-02D4FFF64222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB0782C1-D713-46B6-9498-02D4FFF64222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB0782C1-D713-46B6-9498-02D4FFF64222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB0782C1-D713-46B6-9498-02D4FFF64222}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1194EDC-5649-42B9-9681-02B9084FB632}
+	EndGlobalSection
+EndGlobal
